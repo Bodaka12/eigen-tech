@@ -1,0 +1,50 @@
+2022-03-27 12:03:188 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 12:03:492 INFO  HomePage :28 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (1d76d30330856c560975c7acac4b11b3)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 12:03:954 INFO  HomePage :33 - clicking on RequestDemo button : [[ChromeDriver: chrome on WINDOWS (1d76d30330856c560975c7acac4b11b3)] -> xpath: //a[@class='button button--small']]
+2022-03-27 12:03:309 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 12:03:395 INFO  HomePage :28 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (9c49f27613712cebf2e0fb87fd1b0c76)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 12:03:542 INFO  HomePage :33 - clicking on RequestDemo button : [[ChromeDriver: chrome on WINDOWS (9c49f27613712cebf2e0fb87fd1b0c76)] -> xpath: //a[@class='button button--small']]
+2022-03-27 12:03:827 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 12:03:353 INFO  HomePage :28 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (ce2719d8652bcd6b8ca166b324ef8541)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 12:03:477 INFO  HomePage :33 - clicking on RequestDemo button : [[ChromeDriver: chrome on WINDOWS (ce2719d8652bcd6b8ca166b324ef8541)] -> xpath: //a[@class='button button--small']]
+2022-03-27 13:03:160 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:356 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (5f9e037d45063fa7e0b74e0fae6e6e69)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:603 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (5f9e037d45063fa7e0b74e0fae6e6e69)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:714 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:167 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (292528e6431d8b80d31f52da19115d6f)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:282 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (292528e6431d8b80d31f52da19115d6f)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:514 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (292528e6431d8b80d31f52da19115d6f)] -> xpath: //span[normalize-space()='Events']]
+2022-03-27 13:03:335 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:932 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (5ea19599bbfdcc99c4d2c3df4c546f71)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:115 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (5ea19599bbfdcc99c4d2c3df4c546f71)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:783 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (5ea19599bbfdcc99c4d2c3df4c546f71)] -> link text: Events]
+2022-03-27 13:03:183 INFO  HomePage :51 - clicking on innovatefinance : [[ChromeDriver: chrome on WINDOWS (5ea19599bbfdcc99c4d2c3df4c546f71)] -> xpath: //span[normalize-space()='Events']]
+2022-03-27 13:03:632 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:65 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (3580c813dd7f7adc4243dbc37fa2f5b2)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:353 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (3580c813dd7f7adc4243dbc37fa2f5b2)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:910 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (3580c813dd7f7adc4243dbc37fa2f5b2)] -> link text: Events]
+2022-03-27 13:03:397 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:364 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (687d5647ceb11d6e917dee3a612db2f0)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:521 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (687d5647ceb11d6e917dee3a612db2f0)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:18 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (687d5647ceb11d6e917dee3a612db2f0)] -> link text: Events]
+2022-03-27 13:03:131 INFO  HomePage :51 - clicking on innovatefinance : Proxy element for: DefaultElementLocator 'By.linkText: Innovate Finance Global Summit'
+2022-03-27 13:03:489 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:429 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (1e3f4951eb270ad92a332d4e443a18c5)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:597 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (1e3f4951eb270ad92a332d4e443a18c5)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:156 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (1e3f4951eb270ad92a332d4e443a18c5)] -> link text: Events]
+2022-03-27 13:03:151 INFO  HomePage :51 - clicking on innovatefinance : [[ChromeDriver: chrome on WINDOWS (1e3f4951eb270ad92a332d4e443a18c5)] -> xpath: //div[@class='section section--featured section--dash-btm section--dash-side section--thirds']//a[normalize-space()='Innovate Finance Global Summit']]
+2022-03-27 13:03:674 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:634 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (649ee922eb0745b3dd88ab416649c2e7)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:798 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (649ee922eb0745b3dd88ab416649c2e7)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:302 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (649ee922eb0745b3dd88ab416649c2e7)] -> link text: Events]
+2022-03-27 13:03:766 INFO  HomePage :51 - clicking on innovatefinance : [[ChromeDriver: chrome on WINDOWS (649ee922eb0745b3dd88ab416649c2e7)] -> xpath: //div[@class='section section--featured section--dash-btm section--dash-side section--thirds']//a[normalize-space()='Innovate Finance Global Summit']]
+2022-03-27 13:03:539 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:672 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (bffe8bf458117556d719a77a2a285771)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:888 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (bffe8bf458117556d719a77a2a285771)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:405 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (bffe8bf458117556d719a77a2a285771)] -> link text: Events]
+2022-03-27 13:03:489 INFO  HomePage :51 - clicking on innovatefinance : [[ChromeDriver: chrome on WINDOWS (bffe8bf458117556d719a77a2a285771)] -> xpath: //div[@class='section section--featured section--dash-btm section--dash-side section--thirds']//a[normalize-space()='Innovate Finance Global Summit']]
+2022-03-27 13:03:718 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-03-27 13:03:855 INFO  HomePage :37 - clicking on acceptcookies button : [[ChromeDriver: chrome on WINDOWS (59d13619ea3dbb892585b0490647db4b)] -> xpath: //button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']]
+2022-03-27 13:03:05 INFO  HomePage :42 - mousehover on Resources : [[ChromeDriver: chrome on WINDOWS (59d13619ea3dbb892585b0490647db4b)] -> xpath: //span[@class='navigation__list__label']//span[contains(text(),'Resources')]]
+2022-03-27 13:03:340 INFO  HomePage :47 - click on events : [[ChromeDriver: chrome on WINDOWS (59d13619ea3dbb892585b0490647db4b)] -> link text: Events]
+2022-03-27 13:03:729 INFO  HomePage :51 - clicking on innovatefinance : [[ChromeDriver: chrome on WINDOWS (59d13619ea3dbb892585b0490647db4b)] -> xpath: //div[@class='section section--featured section--dash-btm section--dash-side section--thirds']//a[normalize-space()='Innovate Finance Global Summit']]

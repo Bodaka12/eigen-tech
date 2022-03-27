@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9414435400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUP()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "TC_001 user should be able to see the events",
+        "description": "",
+        "id": "home-page;tc-001-user-should-be-able-to-see-the-events",
+        "after": [
+          {
+            "result": {
+              "duration": 1476452500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 217952400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on home page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 393009900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mousehover on resources",
+            "match": {
+              "location": "MyStepdefs.iMousehoverOnResources()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1471639800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on events",
+            "match": {
+              "location": "MyStepdefs.iClickOnEvents()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1003683500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on innovate finance",
+            "match": {
+              "location": "MyStepdefs.iClickOnInnovateFinance()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Home Page",
+    "description": "",
+    "id": "home-page",
+    "keyword": "Feature",
+    "uri": "homepage.feature"
+  }
+]
